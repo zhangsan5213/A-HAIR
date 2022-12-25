@@ -1,0 +1,11 @@
+./data_and_models/samuraiAgents_Ukyo_moves/20220527_moves_2146.pt	0.9
+./data_and_models/samuraiAgents_Ukyo_moves/20220527_moves_2336.pt	0.7
+./data_and_models/samuraiAgents_Ukyo_moves/20220528_moves_0954.pt	0.8
+./data_and_models/samuraiAgents_Ukyo_moves/20220528_moves_1247.pt	0.8
+./data_and_models/samuraiAgents_Ukyo_moves/20220528_moves_1511.pt	0.7
+./data_and_models/samuraiAgents_Ukyo_moves/20220528_moves_2113.pt	0.4
+./data_and_models/samuraiAgents_Ukyo_moves/20220528_moves_2119.pt	0.6
+./data_and_models/samuraiAgents_Ukyo_moves/20220529_moves_0103.pt	0.6
+./data_and_models/samuraiAgents_Ukyo_moves/20220529_moves_1238.pt	0.4
+./data_and_models/samuraiAgents_Ukyo_moves/20220529_moves_1416.pt	0.6
+./data_and_models/samuraiAgents_Ukyo_moves/20220529_moves_1422.pt	0.8
