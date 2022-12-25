@@ -10,7 +10,7 @@ Train the AI opponents using the MPO method, and fight with it to gain game data
 
 The AI opponent can be trained and be fought with using the script ***train_or_fight_ukyo.py*** by altering the argument --train. ***readGameData.py*** is used to convert the game data into numerical arrays. ***weight_analyze.py*** is used to analyze the collected game data and coach the AI opponent during the fight.
 
-The game data is collected using screenshots and read using yolo (Jocher, G. (2020). YOLOv5 by Ultralytics (Version 7.0) [Computer software]. https://doi.org/10.5281/zenodo.3908559). Run ***recordJoysticks.py*** when fighting the AI opponent or simpy playing the game, the printed info in the command line will tell you what to do. Be sure to play Samurai Shodown II from the Samurai Shodown NEOGEO Collection on Steam.
+The game data is collected using screenshots and read using yolo (Jocher, G. (2020). YOLOv5 by Ultralytics (Version 7.0) [Computer software]. https://doi.org/10.5281/zenodo.3908559). Run ***recordJoysticks.py*** before fighting the AI opponent or simpy playing the game, the printed info in the command line will tell you what to do. Be sure to play Samurai Shodown II from the Samurai Shodown NEOGEO Collection on Steam.
 
 The settings of the game are "WINDOW", "960x540", "ON", "HIGH".
 The settings of Samurai Shodown II are Difficulty "6", "FULL", "OFF", and "SS2 B".
@@ -30,5 +30,5 @@ The game data collected from the last step is converted into some BO optimizers 
 The GOODLE model (Lin, H., Ye, S., & Zhu, X. (2022). Geometry Orbital of Deep Learning (GOODLE): A uniform carbon potential. Carbon, 186, 313-319.) was modified to finite version here for molecules and tuned.
 Other models can also be tuned with our method. SchNet (https://github.com/atomistic-machine-learning/schnetpack), TorchANI (https://github.com/aiqm/torchani), and SpookyNet (https://github.com/OUnke/SpookyNet) are shown here.
 
-## Requirements
+## 5 Requirements
 The required packages are as shown in the file env_info.txt.
