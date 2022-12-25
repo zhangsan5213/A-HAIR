@@ -1,4 +1,5 @@
-# The HI-game-AI paradigm A-HAIR, a simple demo
+# A-HAIR
+The human intelligence -> game -> artificial intelligence paradigm application on molecular simulation using fighting game. The game Samurai Shodown II has been used, which has been purchased for play on Steam using the Steam ID 278437426.
 
 ## 1 Sample
 Sampling of the untuned model data, concerning mainly about the model weight and the loss. This procedure produces a loss surface of the model parameters, unveiling to us the local difficulties the model might trapped be in now.
