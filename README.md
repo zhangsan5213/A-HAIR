@@ -28,7 +28,7 @@ The game data collected from the last step is converted into some BO optimizers 
 ***GameUtilFuncTrain.py*** should be run first to train the utility function using human game data. Then ***tune.py*** applies this utility function summarized from human game data to modify the Adam optimizer in a Bayesian way and tune the model.
 
 ## 4 Other Models
-The GOODLE model (Lin, H., Ye, S., & Zhu, X. (2022). Geometry Orbital of Deep Learning (GOODLE): A uniform carbon potential. Carbon, 186, 313-319.) was modified to finite version here for molecules and tuned.
+The GOODLE model (https://github.com/XI-Lab/CA) was modified to finite version here for molecules and tuned.
 Other models can also be tuned with our method. SchNet (https://github.com/atomistic-machine-learning/schnetpack), TorchANI (https://github.com/aiqm/torchani), and SpookyNet (https://github.com/OUnke/SpookyNet) are shown here.
 
 ## 5 Requirements
